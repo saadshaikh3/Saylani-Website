@@ -1,0 +1,83 @@
+#logo,
+#navbarNavDropdown {
+    margin-left: 120px;
+}
+
+li {
+    padding: 5px 5px 5px 5px;
+}
+
+.icons {
+    display: flex;
+    flex-flow: row;
+}
+
+ul {
+    list-style: none;
+}
+
+#rowtop {
+    height: 45px;
+    background-color: blue;
+    color: white;
+}
+
+.btns {
+    color: lightcoral;
+    padding: 10px 24px;
+    float: left;
+}
+
+.headandpara {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.cc {
+    color: red;
+}
+
+.para {
+    text-align: center;
+    margin: 5% 10%;
+}
+
+.numbersect {
+    background-color: blue;
+    height: 52%;
+}
+
+.servicebox {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+}
+
+.missions {
+    margin: 5% 10%;
+}
+
+.miss {
+    display: flex;
+    flex-flow: row;
+    margin: 25px 25px 25px 25px;
+}
+
+.missbox {
+    border: solid 0.5px lightgray;
+    background-color: lightcyan;
+}
+
+.imgs {
+    display: inline-block;
+    margin-top: 5%;
+}
+
+.foot {
+    background-color: black;
+    color: white;
+}
+
+#end {
+    padding-top: 5%;
+}
